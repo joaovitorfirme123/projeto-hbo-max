@@ -3,8 +3,8 @@
     margin: 0;
 }
 @font-face {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    src: url(gilroy/Gilroy-Light.ttf);
+    font-family: gilroy;
+    src: url(gilroy/Gilroy-Medium.ttf);
 }
 
 header{
@@ -16,13 +16,13 @@ height: 53px;
     display: block;
     float: right;
     margin-right: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: gilroy;
     
 }
 .assinar {
     color: white;
     float: right;
     display: block;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: gilroy;
 
 }
