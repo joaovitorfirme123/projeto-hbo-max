@@ -11,18 +11,37 @@ header{
 background-color: #000025;
 height: 53px;
 }
+.entrar-assinar{
+    vertical-align: middle;
+    padding: .75em 1em 0.5em; 
+    line-height: 19px;
+}
 .entrar {
     color: white;
     display: block;
     float: right;
-    margin-right: 10px;
+    margin: 0px 0px 0px 8px;
     font-family: gilroy;
-    
+    width: 100px;
+    height: 20px;  
+    font-size: 12px;
+    padding: 0.15em 0em 0em 0em;
 }
 .assinar {
     color: white;
     float: right;
     display: block;
     font-family: gilroy;
-
+    width: 110px;
+    height: 22px;
+    border: 2px solid transparent;
+    background-color: #b535f6;
+    border-radius: 40px;
+    font-size: 12px;
+    padding: 0.1em 0em 0.1em 2em;
+}
+.assinar:hover{
+    background-color: aliceblue;
+    color: #000025;
+    transition: .5s;
 }
