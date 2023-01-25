@@ -2,6 +2,11 @@
     padding: 0;
     margin: 0;
 }
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to bottom,black 60%,rgb(3, 3, 41));
+}
 @font-face {
     font-family: gilroy;
     src: url(gilroy/Gilroy-Medium.ttf);
@@ -10,6 +15,9 @@
 header{
 background-color: #000025;
 height: 53px;
+}
+main {
+    
 }
 .entrar-assinar{
     vertical-align: middle;
