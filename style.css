@@ -41,12 +41,12 @@ height: 53px;
     border-radius: 40px;
     font-size: 12px;
     padding: 0.1em 0em 0.1em 1.5em;
-    
+    transition-timing-function: ease-out;
+    transition: 0.5s;
 }
 .assinar:hover{
     background-color: aliceblue;
-    color: #000025;
-    transition: .5s;
+    color: #000025;  
 }
 .logo {
     position: absolute;
