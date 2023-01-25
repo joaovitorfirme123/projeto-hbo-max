@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    src: url(gilroy/Gilroy-Light.ttf);
+}
+
+header{
+background-color: #000025;
+height: 53px;
+}
+.entrar {
+    color: white;
+    display: block;
+    float: right;
+    margin-right: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.assinar {
+    color: white;
+    float: right;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
